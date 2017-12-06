@@ -42,7 +42,7 @@ lexique_test <- import_morphalou3(n_max = 10)
 lexique_test <- import_morphalou3(progress = F)
 ```
 
-### Information sur la table contenues dans le package
+### Information sur la table contenue dans le package
 
 Une étape de "tidying" a été effectuée pour produire le fichier `csv.gz` présent dans le package, la voici:
 
